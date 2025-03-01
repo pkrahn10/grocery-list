@@ -1,0 +1,41 @@
+h1 {
+  color: teal;
+  text-align: center;
+}
+h2 {
+  background: grey;
+  border: 3px solid darkorange;
+  font-size: xx-large;
+  text-align: center;
+  padding: 25px;
+}
+ul {
+  background-color: darkorange;
+  display: inline-block;
+  border: 5px solid grey;
+  padding: 50px;
+  font-size: x-large;
+}
+h3 {
+  text-align: center;
+}
+section {
+  display: inline-block;
+  margin: 25px;
+}
+img {
+  display: inline-block;
+  height: 300px;
+  margin-left: 50px;
+  padding: 30px;
+}
+.category {
+  color: beige;
+}
+ol {
+  background-color: darkorange;
+  display: inline-block;
+  border: 5px solid grey;
+  padding: 50px;
+  font-size: x-large;
+}
